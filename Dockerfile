@@ -1,5 +1,5 @@
 # using this awesome prebuild image:
-FROM 'ydalabs/php-7.1-nginx:cicd'
+FROM 'ydalabs/php-7.1-nginxcicd'
 MAINTAINER Danan Jaya <yudadananjaya@student.telkomuniversity.ac.id>
 
 # Install prestissimo for faster deps instalation 
